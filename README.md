@@ -18,8 +18,6 @@ Fork 本仓库声明开源
 
 通过 Pull Request 提交变更，并描述项目信息
 
-各子项目的详细贡献规则见其各自的 CONTRIBUTING.md文件
-
 
 <h1>🪛支持与反馈🪛</h1>
 问题报告：请在对应子项目的 GitHub Issues 页面提交
